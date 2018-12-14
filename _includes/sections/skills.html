@@ -22,20 +22,11 @@
                   <h4>
                   {% if skill.url %}
                   <a href="{{ skill.url }}" target="_blank"><span class="navy">{{ skill.name }}</span></a>
-                  {% elsif skill.repo %}
-                  <a href="https://github.com/{{ skill.gh_user }}/{{ skill.repo }}" target="_blank"><span class="navy">{{ skill.name }}</span></a>
                   {% else %}
                   <span class="navy">{{ skill.name }}</span>
                   {% endif %}
                   </h4>
                   <p><span data-i18n="skill.{{ skill.i18n }}">{{ skill.desc }}</span></p>
-                  {% if skill.repo %}
-                  <div user="{{ skill.gh_user }}" repo="{{ skill.repo }}" class="ghbtn">
-                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ skill.gh_user }}/{{ skill.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
-                      <a target="_blank" style="width: 65px;" href="https://github.com/{{ skill.gh_user }}/{{ skill.repo }}/network" class="btn btn-white btn-xs fork"><i class="fa fa-code-fork"></i> ...</a>
-                      <div style="height: 10px;"></div>
-                  </div>
-                  {% endif %}
               </div>
           </div>
       {% endfor %}
