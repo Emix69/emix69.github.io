@@ -1,17 +1,25 @@
-<div class="container">
-    <div class="row">
+<div class="container" id="i18_projects">
+    <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1>My Skills</h1>
+            <h1><span data-i18n="projects.my_projects">My Skill</span></h1>
         </div>
     </div>
     <div class="row">
-        <div class="col-sm-6 text-center">
-            <h2>SQL</h2>
-        </div>
-        <div class="col-sm-6 text-center">
-            <h2><a href="https://www.javascript.it">Javascript</a></h2>
-            <img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png' style='height: 76px; width: 76px;' />
+        {% for project in site.data.index.projects %}
+            {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if forloop.last %}
+                {% if forloop.last == forloop.first %}
+            <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+                {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+                {% endif %}
+            {% else %}
+            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            {% endif %}
+              </div>
+          </div>
+      {% endfor %}
     </div>
 </div>
-    <br>
+<br>
