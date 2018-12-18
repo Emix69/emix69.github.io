@@ -23,8 +23,8 @@ author:  # change following line to your infomation.
   cv: /static/assets/cvemix.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-js
-    - name: fa-dev
+    - name: icon-javascript
+    - name: icon-java
   skill_icon2:
     - name: fa-database
     - name: fa-code
