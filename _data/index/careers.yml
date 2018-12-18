@@ -1,29 +1,99 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Xcode presso DXC in INAIL
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Developer in ambiente Java e DBA – Specialista di prodotto RTC
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Dec. 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Programmatore
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Xcode presso PuntoNet in AIFA
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Developer in ambiente java e DBA junior
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May. 2016
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Programmatore
     i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Xcode
+    i18n: company_c
+  desc:
+    detail: Developer in ambiente java e DBA junior
+    i18n: company_c_desc
+  date:
+    detail: May. 2015
+    i18n: company_c_date
+  job:
+    detail: Programmatore
+    i18n: company_c_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Orienta
+    i18n: company_d
+  desc:
+    detail: Developer in ambiente java
+    i18n: company_d_desc
+  date:
+    detail: Nov. 2014
+    i18n: company_d_date
+  job:
+    detail: Programmatore
+    i18n: company_d_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Prolan presso Almaviva, Sogei, Csc e Opera21
+    i18n: company_e
+  desc:
+    detail: Developer in ambiente java
+    i18n: company_e_desc
+  date:
+    detail: Oct. 2012
+    i18n: company_e_date
+  job:
+    detail: Programmatore
+    i18n: company_e_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Privato
+    i18n: company_f
+  desc:
+    detail: Assistenza hardware e software per piccoli privati, creazione e manutenzione siti web
+    i18n: company_f_desc
+  date:
+    detail: Oct. 2010
+    i18n: company_f_date
+  job:
+    detail: Programmatore
+    i18n: company_f_job
+  icon: fa-plus-square
+  
+- name:
+    detail: C.P.I Progetti
+    i18n: company_g
+  desc:
+    detail: Stage e Work Experience come developer
+    i18n: company_g_desc
+  date:
+    detail: Jul. 2008
+    i18n: company_g_date
+  job:
+    detail: Programmatore
+    i18n: company_g_job
   icon: fa-plus-square

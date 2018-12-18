@@ -1,6 +1,22 @@
-# skills section data
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Java
+  i18n: java
+  img: /static/assets/img/landing/java.svg
+  desc: 1.6, 1.7, 1.8, J2EE, servlet, JBoss, TomCat, Eclipse, EJB
 
-label: Ability
-id : cs
-aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-percentage: 100, 35, 65, 80, 70, 90, 50
+- name: Javascript
+  i18n: javascript
+  img: /static/assets/img/landing/javascript.png
+  desc: JSP, Javascript (+HTML)
+
+- name: SQL
+  i18n: sql
+  img: /static/assets/img/landing/sql.png
+  desc: Oracle Database, MySql, Postgress
+
+- name: HTML & CSS
+  i18n: htmlcss
+  img: /static/assets/img/landing/htmlcss.png
+  desc: Creazione siti web
