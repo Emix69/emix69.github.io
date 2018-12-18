@@ -1,16 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: DXC in INAIL
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: - Manutenzione dell’esistente e sviluppo di nuovi plugin in Java (1.6), scritto in codice puro senza l’utilizzo di alcun framework per RTC (versione 5.0.2 e 6.0.5), un tool IBM.
+            - Creazione e gestione DB su Oracle 11g in ambiente locale, in colluado e produzione.
+            - Gestione dei rilasci dei plugin sopracitati su Application server, in particolare WebSphere.
+            - Bug fixing
+            - Studio e analisi di problem resolving
+            - Reingegnerizzazione dei plug in esistenti e sviluppo dei nuovi
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Dec. 2016
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Developer in ambiente Java e DBA – Specialista di prodotto RTC
     i18n: company_a_job
   icon: fa-plus-square
 
