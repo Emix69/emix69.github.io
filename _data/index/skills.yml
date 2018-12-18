@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Java
   i18n: java
-  img: /static/assets/img/landing/java.png
+  img: /static/assets/img/landing/java.svg
   desc: 1.6, 1.7, 1.8, J2EE, servlet, JBoss, TomCat, Eclipse, EJB
 
 - name: Javascript
