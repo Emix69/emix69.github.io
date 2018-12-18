@@ -85,27 +85,13 @@
   icon: fa-plus-square
   
 - name:
-    detail: Privato
-    i18n: company_f
-  desc:
-    detail: Sistemazione, riparazione hardware e  software, creazione e manutenzione piccoli siti web, vendita al dettaglio di hardware
-    i18n: company_f_desc
-  date:
-    detail: Oct. 2010
-    i18n: company_f_date
-  job:
-    detail: Assistenza hardware e software per piccoli privati, creazione e manutenzione siti web
-    i18n: company_f_job
-  icon: fa-plus-square
-  
-- name:
     detail: C.P.I Progetti
     i18n: company_g
   desc:
     detail: Stage e Work Experience come developer
     i18n: company_g_desc
   date:
-    detail: Oct. 2010
+    detail: Jul. 2008
     i18n: company_g_date
   job:
     detail: Programmatore
