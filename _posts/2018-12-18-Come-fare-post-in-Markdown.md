@@ -4,8 +4,8 @@ title:  "Come fare post in Markdown"
 date:   2018-12-18
 desc: "Piccola Guida per scrivere post in Markdown"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [Guida]
-tags: [Guida,Markdown, Jekyll]
+categories: [Guide]
+tags: [Guide,Markdown,Jekyll]
 icon: icon-html
 ---
 
