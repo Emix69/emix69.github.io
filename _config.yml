@@ -14,13 +14,13 @@ author:  # change following line to your infomation.
   name: Emix_69  # Be used at blog posts' author.
   first_name: Emiliano Iannetti  # Be used at index page about me section.
   last_name: Emix_69  # Be used at index page about me section.
-  avatar: /emix_69/static/assets/img/landing/emix69.png  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/emix69.png  # upload your avatar at directory and edit it.
   github_username: emix69  # Leave blank if you don't have now
   linkedin_id: emix69 # Leave blank if you don't have now
   facebook_username: emix69  # Leave blank if you don't have now
   twitter_username: emix69  # Leave blank if you don't have now
   email: Emiliano8.10@gmail.com  # Leave blank if you don't have now
-  cv: /static/assets/cvemix.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: /emix_69/static/assets/cvemix.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-javascript-alt
