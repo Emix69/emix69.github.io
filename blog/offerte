@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Offerte
+permalink: /offerte/
+---
+{% include category.html %}
