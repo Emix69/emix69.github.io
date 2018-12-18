@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Altro
+permalink: /altro/
+---
+{% include category.html %}
