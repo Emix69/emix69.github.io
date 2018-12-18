@@ -14,7 +14,7 @@ author:  # change following line to your infomation.
   name: Emix_69  # Be used at blog posts' author.
   first_name: Emiliano Iannetti  # Be used at index page about me section.
   last_name: Emix_69  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/emix69.png  # upload your avatar at directory and edit it.
+  avatar: /emix_69/static/assets/img/landing/emix69.png  # upload your avatar at directory and edit it.
   github_username: emix69  # Leave blank if you don't have now
   linkedin_id: emix69 # Leave blank if you don't have now
   facebook_username: emix69  # Leave blank if you don't have now
