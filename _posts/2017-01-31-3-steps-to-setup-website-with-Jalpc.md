@@ -1,39 +1,74 @@
 ---
 layout: post
-title:  "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
-date:   2017-01-31
-desc: "3 Steps (2 minutes) to Setup Your Personal Website with Jalpc"
+title:  "Come fare post in Markdown"
+date:   2018-12-18
+desc: "Piccola Guida per scrivere post in Markdown"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
-tags: [Jalpc,Jekyll]
+categories: [Guida]
+tags: [Guida,Markdown, Jekyll]
 icon: icon-html
 ---
 
-Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.
+Jekyll implemente nativamente il linguaggio di markup denominato [markdown](http://markdowntutorial.com/), puoi scrivere comodamente i tuoi posts sfruttando la semplicità di markdown ([ti consiglio di perdere cinque minuti con questo breve tutorial](http://markdowntutorial.com/)).
 
-So, if you like this website <https://jarrekk.github.io/Jalpc/> or <http://www.jarrekk.com> and are willing to have a website, here is a way to build your website in 3 steps(2 minutes). Following are steps to setup your website(make sure you have basic knowledge of [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/), if you want to custom css/js [NPM](https://github.com/npm/npm) is needed):
+Puoi dare direttamente un occhio anche [guida](https://guides.github.com/features/mastering-markdown/) fornita da GitHub! 
 
-1. Fork [this project -- Jalpc](https://github.com/jarrekk/Jalpc) at [GitHub](https://github.com). If you want to edit website at github, do it as following gif or clone forked repository. `git clone git@github.com:github_username/Jalpc.git`.
+Ah, volendo puoi scrivere anche in HTML, Jekyll lo supporta benissimo.
 
-	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
-	<img src="{{ site.img_path }}/3steps/edit.gif" width="75%">
+Ti faccio qualche esempio, bisogna solamente imparare a utilizzare un po' di caratteri _strani_:
 
-2. Enter into repository directory and edit following file list:
+**Due asterischi all'inzio e alla fine per scrivere in grassetto**
 
-	* **_config.yml**: edit 'Website settings', 'author', 'comment' and 'analytics' items.
+## Puoi creare paragrafi sfruttando due hashtag 
 
-	* **_data/landing.yml**: custom sections of index page.
+Creare una tabella è molto semplice, utilizza le sbarrette
 
-	* **_data/index/**: edit sections' data to yours at index page, please notice comment at each file.
+| Numero | Prossimo numero | Numero precedente |
+| :------ |:--- | :--- |
+| Cinque | Sei | Quattro |
+| Dieci | Undici | Nove |
+| Sette | Otto | Sei |
+| Due | Tre | Uno |
 
-	* **_data/blog.yml**: edit navbar(categories) of blog page, if you have different/more blog page, copy `blog/python.html` and change it to your category HTML file, and edit **Python**, **/python/** to your category name at items **title** and **permalink**, make sure title is the same as permalink but capitalized first letter(except HTML).
 
-	* **CNAME**: If you wanna release website at your own domain name: edit it and create `gh-pages` branch; if you want to use *github_username.github.io*: leave it blank.
+Piccola pausa? In effetti abbiamo lavorato tanto, ce la meritiamo.
 
-	* Go to repo's settings panel, config **GitHub Pages** section to make sure website is released.
+![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-3. Push changes to your github repository and view your website, done!
+Spero ti sia piacuta,ecco un po' di codice:
 
-From now on, you can post your blog to this website by creating md files at `post/` directory and push it to GitHub, you can clear files at this directory before you post blogs.
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
 
-If you like this repository, I appreciate you star this repository. Please don't hesitate to mail me or post issues on GitHub if you have any questions. Hope you have a happy blog time!😊
+Umh ... un po' brutto, forse meglio evidenziarlo:
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+## Boxes
+Ecco come aggiungere alcuni box
+
+### Notification
+
+{: .box-note}
+**Note:** Questa è una semplice notifica.
+
+### Warning
+
+{: .box-warning}
+**Warning:** Un piccolo "spoiler".
+
+### Error
+
+{: .box-error}
+**Error:** Qua mi sa che c'è qualche errore.
+
+PS: ci sono le [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/) 
