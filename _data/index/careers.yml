@@ -4,12 +4,12 @@
     detail: DXC in INAIL
     i18n: company_a
   desc:
-    detail: - Manutenzione dell’esistente e sviluppo di nuovi plugin in Java (1.6), scritto in codice puro senza l’utilizzo di alcun framework per RTC (versione 5.0.2 e 6.0.5), un tool IBM.
-    detail: - Creazione e gestione DB su Oracle 11g in ambiente locale, in colluado e produzione.
-    detail: - Gestione dei rilasci dei plugin sopracitati su Application server, in particolare WebSphere.
-    detail: - Bug fixing
-    detail: - Studio e analisi di problem resolving
-    detail: - Reingegnerizzazione dei plug in esistenti e sviluppo dei nuovi
+    detail: Manutenzione dell’esistente e sviluppo di nuovi plugin in Java (1.6), scritto in codice puro senza l’utilizzo di alcun framework per RTC (versione 5.0.2 e 6.0.5), un tool IBM.
+    detail: Creazione e gestione DB su Oracle 11g in ambiente locale, in colluado e produzione.
+    detail: Gestione dei rilasci dei plugin sopracitati su Application server, in particolare WebSphere.
+    detail: Bug fixing
+    detail: Studio e analisi di problem resolving
+    detail: Reingegnerizzazione dei plug in esistenti e sviluppo dei nuovi
     i18n: company_a_desc
   date:
     detail: Dec. 2016
