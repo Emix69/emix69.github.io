@@ -57,7 +57,7 @@
   icon: fa-plus-square
   
 - name:
-    detail: Prolan presso: Almaviva, Sogei, Csc, Opera21
+    detail: Prolan presso Almaviva, Sogei, Csc e Opera21
     i18n: company_e
   desc:
     detail: Developer in ambiente java
