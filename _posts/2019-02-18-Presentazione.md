@@ -6,7 +6,7 @@ date:   2019-02-18
 desc: "Piccola presentazione del mio sito"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy,presentation,amazon"
 categories: [Info]
-tags: [Guide,Markdown,Jekyll,Presentatio,amazon]
+tags: [Guide,Markdown,Jekyll,Presentation,amazon]
 icon: icon-html
 ---
 
