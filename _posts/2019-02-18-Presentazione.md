@@ -18,12 +18,15 @@ Naturalmente non vi bombarderò di post con prodotti o altro (c'è una pagina fb
 vedere se riuscirò almeno a richiedere l'affiliazione.
 
 **Esperienze passate / future**
-##Passato: Ho lavorato sempre e per lo più in ambiente Java standard, anche utilizzando applicativi web ma senza l'utilizzo dell'Enterprice ma applicando i concetti del pattern MVC
+## Passato: ##
+Ho lavorato sempre e per lo più in ambiente Java standard, anche utilizzando applicativi web ma senza l'utilizzo dell'Enterprice ma applicando i concetti del pattern MVC
 
-##Presente: Al momento mi sto occupando della gestione "messaggistica" su sistemi SAP / ABAP. Non è proprio il mio genere e la mia passione, ma è un esperienza nuova che andava presa al volo.
+## Presente: ##
+Al momento mi sto occupando della gestione "messaggistica" su sistemi SAP / ABAP. Non è proprio il mio genere e la mia passione, ma è un esperienza nuova che andava presa al volo.
 In tutto ciò mi occupo ancora di programmazione Java o meglio cerco di continuare a studiarmelo per conto mio. Quindi mi sto catapultando su Spring MVC / Maven / Angular 
 che però andrà affrontato a parte e Hibernate per il momento.
 
-##Futuro: Spero di migliorare e approfondire sempre di più la mia conoscenza in ambito Java per lo più ma anche con tutto cio che lo circonda, come questo sito per esempio.
+## Futuro: ##
+Spero di migliorare e approfondire sempre di più la mia conoscenza in ambito Java per lo più ma anche con tutto cio che lo circonda, come questo sito per esempio.
 
 Cercherò di creare post utili a Voi e che possano piacere così che possiate tornare sempre più numerosi. Grazie a tutti anticipatamente.
