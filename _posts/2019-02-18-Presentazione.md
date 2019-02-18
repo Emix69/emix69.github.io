@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Presentazione"
@@ -19,57 +18,12 @@ Naturalmente non vi bombarderò di post con prodotti o altro (c'è una pagina fb
 vedere se riuscirò almeno a richiedere l'affiliazione.
 
 **Esperienze passate / future**
+##Passato: Ho lavorato sempre e per lo più in ambiente Java standard, anche utilizzando applicativi web ma senza l'utilizzo dell'Enterprice ma applicando i concetti del pattern MVC
 
-## Puoi creare paragrafi sfruttando due hashtag 
+##Presente: Al momento mi sto occupando della gestione "messaggistica" su sistemi SAP / ABAP. Non è proprio il mio genere e la mia passione, ma è un esperienza nuova che andava presa al volo.
+In tutto ciò mi occupo ancora di programmazione Java o meglio cerco di continuare a studiarmelo per conto mio. Quindi mi sto catapultando su Spring MVC / Maven / Angular 
+che però andrà affrontato a parte e Hibernate per il momento.
 
-Creare una tabella è molto semplice, utilizza le sbarrette
+##Futuro: Spero di migliorare e approfondire sempre di più la mia conoscenza in ambito Java per lo più ma anche con tutto cio che lo circonda, come questo sito per esempio.
 
-| Numero | Prossimo numero | Numero precedente |
-| :------ |:--- | :--- |
-| Cinque | Sei | Quattro |
-| Dieci | Undici | Nove |
-| Sette | Otto | Sei |
-| Due | Tre | Uno |
-
-
-Piccola pausa? In effetti abbiamo lavorato tanto, ce la meritiamo.
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Spero ti sia piacuta,ecco un po' di codice:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-Umh ... un po' brutto, forse meglio evidenziarlo:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-## Boxes
-Ecco come aggiungere alcuni box
-
-### Notification
-
-{: .box-note}
-**Note:** Questa è una semplice notifica.
-
-### Warning
-
-{: .box-warning}
-**Warning:** Un piccolo "spoiler".
-
-### Error
-
-{: .box-error}
-**Error:** Qua mi sa che c'è qualche errore.
-
-PS: ci sono le [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/) 
+Cercherò di creare post utili a Voi e che possano piacere così che possiate tornare sempre più numerosi. Grazie a tutti anticipatamente.
