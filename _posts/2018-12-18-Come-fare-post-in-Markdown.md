@@ -9,7 +9,7 @@ tags: [Guide,Markdown,Jekyll]
 icon: icon-html
 ---
 
-Jekyll implemente nativamente il linguaggio di markup denominato [markdown](http://markdowntutorial.com/), puoi scrivere comodamente i tuoi posts sfruttando la semplicità di markdown ([ti consiglio di perdere cinque minuti con questo breve tutorial](http://markdowntutorial.com/)).
+Jekyll implementa nativamente il linguaggio di markup denominato [markdown](http://markdowntutorial.com/), puoi scrivere comodamente i tuoi posts sfruttando la semplicità di markdown ([ti consiglio di perdere cinque minuti con questo breve tutorial](http://markdowntutorial.com/)).
 
 Puoi dare direttamente un occhio anche [guida](https://guides.github.com/features/mastering-markdown/) fornita da GitHub! 
 
