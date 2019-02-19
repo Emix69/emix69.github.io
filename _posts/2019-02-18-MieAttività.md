@@ -11,7 +11,7 @@ icon: icon-html
 
 Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi questa più che altro è una panoramica di cio che faccio un pochino più nel dettaglio.<br>
 **Canale telegram vendita usato e non:** [Vendo anche mia nonna :D :D](https://t.me/mercatino_dell_usato) <br>
-**Bot telegram per contattarmi:** [Emix_69Bot](t.me/Emix_69MercatinoBot) <br>
+**Bot telegram per contattarmi:** [Emix_69Bot](https://t.me/Emix_69MercatinoBot) <br>
 **Gruppo telegram che si occupa soprattutto di sconti:** [MalatiDiSconti](https://t.me/malatidiofferte) <br>
 **Gruppo telegram che si occupa soprattutto di assistenti virtuali:** [GoogleHome&Company](https://t.me/googlehome_italia)<br>
 **Pagina FB che si occupa di proporre le migliori offerte e coupon su Amzon e Gearbest:** [ScontiCouponAmazonGearBest](https://m.facebook.com/ScontiCouponAmazonGearBestByEmix69/?ref=bookmarks)<br>
@@ -33,7 +33,7 @@ Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi que
 &emsp; Apri Conto Corrente da questa pagina e riceverai 50€ di buoni acquisto <br>
 **Carta payback:** [Payback](https://www.payback.it/registra-richiedi/richiedi-la-carta) <br>
 &emsp; Con questa carta potrete raccogliere punti con moltissimi partner a partire dagli e-commerce fino ad arrivare ai negozi <br>
-**Amex payabck:** [Amex](www.americanexpress.it/amico/emiliiDSyc?CPID=999999545) <br>
+**Amex payabck:** [Amex](https://www.americanexpress.it/amico/emiliiDSyc?CPID=999999545) <br>
 &emsp; La prima CC (carta di credito) completamente gratuita che ti regala 4000 punti di benvenuto e soprattutto regala la <br>
 &emsp; seconda carta senza alcun costo aggiuntivo. Nota bene: naturalmente essendo una carta di credito si appoggia ad un <br> 
 &emsp; IBAN e il pagamento della stessa viene effettuato dal 4 al 7 del mese successivo, come ogni altra carta di credito <br> 
