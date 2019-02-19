@@ -4,7 +4,7 @@ title:  "Introduzione"
 date:   2019-02-18
 desc: "Introduzione della sezione Recensioni"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy,presentation,amazon,review"
-categories: [News]
+categories: [Recensioni]
 tags: [Guide,Markdown,Introduction,amazon,review]
 icon: icon-html
 ---
