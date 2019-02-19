@@ -3,15 +3,9 @@
   href: /blog/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Programmazione
-  href: /programmazione/
-
 - name: Guide
   href: /guide/
-
-- name: News
-  href: /news/
-
+  
 - name: Altro
   href: /altro/
   
