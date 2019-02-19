@@ -30,10 +30,10 @@ Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi que
 &emsp; Appena registrato otterai il bonus di benvenuto se poi spenderai almeno 15€ in prima battuta con la carta, farai ottenere <br> 
 &emsp; il bonus anche me. <br>
 **INGDirect, conto corrente arancio:** [ING](https://www.ing.it/mgmcode/776DAF) <br>
-&emsp; Apri Conto Corrente da questa pagina e riceverai 50€ di buoni acquisto
+&emsp; Apri Conto Corrente da questa pagina e riceverai 50€ di buoni acquisto <br>
 **Carta payback:** [Payback](https://www.payback.it/registra-richiedi/richiedi-la-carta) <br>
 &emsp; Con questa carta potrete raccogliere punti con moltissimi partner a partire dagli e-commerce fino ad arrivare ai negozi <br>
-**Amex payabck:** [Amex]() <br>
+**Amex payabck:** [Amex](www.americanexpress.it/amico/emiliiDSyc?CPID=999999545) <br>
 &emsp; La prima CC (carta di credito) completamente gratuita che ti regala 4000 punti di benvenuto e soprattutto regala la <br>
 &emsp; seconda carta senza alcun costo aggiuntivo. Nota bene: naturalmente essendo una carta di credito si appoggia ad un <br> 
 &emsp; IBAN e il pagamento della stessa viene effettuato dal 4 al 7 del mese successivo, come ogni altra carta di credito <br> 
