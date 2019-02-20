@@ -4,7 +4,7 @@ title:  "Promozione BeHuman by Unieuro"
 date:   2019-02-14
 desc: "Come partecipare al concorso beHuman"
 keywords: "unieuro,acquisti,sconti,punti"
-categories: [News]
+categories: [Guide]
 tags: [Uniero,Sconti,Punti,Acquisti]
 icon: icon-html
 ---
