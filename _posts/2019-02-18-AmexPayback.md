@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Tutte le mie attività"
+title:  "Amex Payback"
 date:   2018-12-18
-desc: "Un piccolo resoconto di tutto ciò che faccio (provo a fare)"
+desc: "La prima carta di credito gratuita che ti regala fino a 9000 punti di benvenuto"
 keywords: "guide,payback,AmericanExpress,carteDiCredito"
 categories: [Guide]
 tags: [Guide,Payback,American Express,Carta di credito]
