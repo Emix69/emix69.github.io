@@ -9,9 +9,9 @@ tags: [Uniero,Sconti,Punti,Acquisti]
 icon: icon-html
 ---
 
-**<p><h1>Unieuro Be Human: ecco come ottenere 18€ gratis senza spesa minima!</h1></p>** <br>
-**<p><i>Con Unieuro Be Human, gioca e vinci punti convertibili fino a 18€ di credito gratuito! Spendili online o in negozio senza sborsare un centesimo!<i>**
-![card](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-card-1024x537.png)
+**Unieuro Be Human: ecco come ottenere 18€ gratis senza spesa minima!** <br>
+**Con Unieuro Be Human, gioca e vinci punti convertibili fino a 18€ di credito gratuito! Spendili online o in negozio senza sborsare un centesimo!**
+![card](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-card-1024x537.png)<br>
 Unieuro Be Human è un nuovo programma dedicato ai possessori di Unieuro Club che ti permette di giocare e guadagnare credito!
 
 Puoi ricevere in un’oretta ben 18€ da spendere online o nei negozi Unieuro, senza alcuna spesa minima!
