@@ -11,7 +11,7 @@ icon: icon-html
 
 **Unieuro Be Human: ecco come ottenere 18€ gratis senza spesa minima!** <br>
 **Con Unieuro Be Human, gioca e vinci punti convertibili fino a 18€ di credito gratuito! Spendili online o in negozio senza sborsare un centesimo!**
-![card](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-card-1024x537.png)<br>
+![card](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-card-1024x537.png)<br>
 Unieuro Be Human è un nuovo programma dedicato ai possessori di Unieuro Club che ti permette di giocare e guadagnare credito!
 
 Puoi ricevere in un’oretta ben 18€ da spendere online o nei negozi Unieuro, senza alcuna spesa minima!
@@ -51,11 +51,11 @@ Considera, però, che i punti vengono accreditati il giorno dopo averli guadagna
 Ma adesso bando alle ciance, passiamo subito al programma!
 
 Ritorna nella sezione Unieuro Club cliccando sul menù in alto (1) e poi clicca sulla voce Be Human presente su un altro menù poco più sotto (2).
-![IMG](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-1024x432.png)
+![IMG](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-1024x432.png)
 
 Ti si dovrebbe presentare questa schermata:
 
-![IMG2](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-home-1024x434.png)
+![IMG2](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/unieuro-be-human-home-1024x434.png)
 Chiudi la finestrella blu dall’apposito pulsante “X” e inizia a completare il puzzle di benvenuto, che ti garantirà ben 100 punti!
 <br>
 <br>
@@ -72,7 +72,7 @@ Al completamento, ti saranno accreditati i 100 punti previsti e potrai subito pa
 In questa guida analizzeremo in breve tutte le attività e minigiochi disponibili.
 
 ➡️ Unieuro Be Human: <strong>Be Passionate:</strong><br>
-![IMG3](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-passionate-unieuro-be-human.png)<br>
+![IMG3](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-passionate-unieuro-be-human.png)<br>
 Passioni iconiche è il minigioco dove ti verranno presentate 4 figure-indizi e dovrai indovinare la canzone, film, libro o città corrispondenti. Basterà indovinarne almeno 1 su 4 per riscuotere 20 punti.
 Attenzione, però: se dovessi fallire, non riceverai nulla e non potrai riprovare.
 
@@ -83,7 +83,7 @@ Questa volta, invece, in caso di errore potrai riprovare tranquillamente quanto 
 <br>
 <br>
 ➡️ Unieuro Be Human: <strong>Be Original</strong><br>
-![IMG4](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-original-unieuro-be-human.png)<br>
+![IMG4](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-original-unieuro-be-human.png)<br>
 Selfiemotion è il primo minigioco della categoria che, però, ti consigliamo di fare solo nel caso in cui non dovessi raggiungere la quota finale di 600 punti. Questo perché ti viene richiesto di scattare un selfie presso un punto vendita Unieuro ed è l’unica attività che richiede maggior tempo, nonostante ti garantisca 50 punti che sono ottimi. Ma, come già detto, non servirà se riuscirai a svolgere correttamente le altre attività.
 
 Cercasi protagonista è un vero e proprio giochino browser, dove sarai a tutti gli effetti il protagonista di una storia. Scegli come affrontare le sfide e supera tutte le prove per guadagnare 40 punti per singolo giochino!
@@ -91,7 +91,7 @@ Cercasi protagonista è un vero e proprio giochino browser, dove sarai a tutti g
 Hi-Test è un semplice sondaggio, dove dovrai esprimere i tuoi gusti personali. 20 punti facili facili!
 
 ➡️ Unieuro Be Human: <strong>Be Trendy</strong><br>
-![IMG5](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-trendy-unieuro-be-human.png)<br>
+![IMG5](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-trendy-unieuro-be-human.png)<br>
 Pixel-enigma è senza ombra di dubbio il minigioco più difficile. Dovrai, infatti, “capire” ciò che l’immagine pixelata rappresenta. Avrai a disposizione 60 secondi di tempo, di cui ogni secondo l’immagine diventa sempre più nitida ma i punti ottenibili diminuiscono.
 Inoltre, dare la risposta sbagliata invaliderà il minigioco e non potrai più riprovare, perdendo di conseguenza i punti ottenibili da questa attività.
 
@@ -99,7 +99,7 @@ Tecnologif ricorda Passioni Iconiche, poiché avrai a disposizione 3 figure-indi
 Attenzione, però: un solo errore invalida il minigioco e non avrai possibilità di riprovare, perdendo di conseguenza i punti ottenibili da questa attività.
 
 ➡️ Unieuro Be Human: Be Ready <br>
-![IMG6](https://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-ready-unieuro-be-human.png)<br>
+![IMG6](http://www.lapaginadeglisconti.it/wp-content/uploads/2019/02/be-ready-unieuro-be-human.png)<br>
 Catch & Click è un minigioco di concentrazione e velocità. Osserva l’immagine presentata e clicca sugli oggetti che a turno si muoveranno leggermente. Se riesci a catturarne più del tuo avversario vinci ulteriori punti extra!
 Ti consigliamo di provare diverse impostazioni di zoom del tuo browser (noi ci siamo trovati bene con il 75%) se dovessi avere problemi.
 
