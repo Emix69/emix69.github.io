@@ -11,6 +11,9 @@
   
 - name: Recensioni
   href: /recensioni/
+  
+- name: News
+  href: /news/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
