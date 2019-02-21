@@ -19,12 +19,16 @@ Il futuro è qui: Samsung svela l'attesissimo Galaxy Fold, un nuovo dispositivo 
 **- Nuovo meccanismo a cerniera:** Galaxy Fold si apre in modo fluido e naturale, come un libro, e si chiude piatto e compatto con un clic importante. Per raggiungere questo obiettivo, Samsung ha progettato una sofisticata cerniera con ingranaggi multipli di interblocco. Un sistema alloggiato in un componente nascosto affinchè permetta di avere un look lineare ed elegante.
 **- Nuovi elementi di design:** dallo schermo all'alloggiamento, a tutti gli elementi che puoi vedere e toccare - Samsung non ha tralasciato nulla. Lo scanner per le impronte digitali si trova sul lato dove si andrà a posizionare il pollice per uno sblocco facile ed immediato. Due batterie nonché i componenti sono distribuiti uniformemente così che il Galaxy Fold si senta equilibrato nelle mani. Colori con finiture esclusive: Space Silver, Cosmos Black, Martian Green e Astro Blue; la cerniera incisa con logo Samsung completa la sua vestibilità e la sua eleganza. <br>
 
-| SAMSUNG Galaxy Fold |
+| | SAMSUNG Galaxy Fold |
 | --- | --- |
-| OS al lancio | Android 9.0 Pie |
+| OS (al lancio) | Android 9.0 Pie |
 | Processore | Octa-Core a 64-bit processo produttivo 7nm |
 | RAM | 12GB |
-| Display | Dynamic AMOLED 7.3" QXGA / Super AMOLED 4.6 HD+|
+| Display | Dynamic AMOLED 7.3" QXGA (4.2:3) / Super AMOLED 4.6'' HD+ (21:9) |
+| Storage (al lancio) | Android 9.0 Pie |
+| Fotocamera Posteriore | 16MP Ultra Wide f/2.2 / 12MP Wide Angle Dual Pixel OIS f/1.5-2.4 / 12MP Telephoto PDAF OIS f/2.4 zoom 2X |
+| Fotocamera Anteriore | 10MP Selfie Camera f/2.2 / 8MP RGB Depth Camera f/1.9 |
+| Batteria | 4.380 mAh + Ricarica rapida + Ricarica Wireless |
 
 ## Galaxy Fold: un'esperienza completamente nuova <br>
 Galaxy Fold è stato progettato pensando agli utenti che usano lo smartphone, guidati da fattori di forma più grandi che migliorano le loro esperienze. Galaxy Fold cambia in base a quanto display si ha bisogno, solo nel momento in cui se ne ha bisogno. Sta in una sola mano ma aperto permette un interminabile multitasking e una visualizzazione di alta qualità sul più grande display mobile realizzato da Samsung per presentazioni, riviste digitali, film e contenuti AR. <br>
