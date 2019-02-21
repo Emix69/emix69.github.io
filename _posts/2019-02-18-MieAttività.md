@@ -3,9 +3,9 @@ layout: post
 title:  "Tutte le mie attività"
 date:   2018-12-18
 desc: "Un piccolo resoconto di tutto ciò che faccio (provo a fare)"
-keywords: "website,blog,easy,amazon,telegram,smartHome,assistentiVirtuali"
+keywords: "website,blog,attività,contoCorrente,e-waller,cartaDiCredito,telegram,facebook"
 categories: [Altro]
-tags: [Guide,Markdown,Telegram,Assistenti virtuali,Amazon]
+tags: [Facebook,Telegram,Canali,Gruppi,E-wallet,ContoCorrente,CartaDiCredito,Website,Blog,Attività]
 icon: icon-html
 ---
 
