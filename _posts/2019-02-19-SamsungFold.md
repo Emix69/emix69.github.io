@@ -28,7 +28,7 @@ Il futuro è qui: Samsung svela l'attesissimo Galaxy Fold, un nuovo dispositivo 
 | Storage (al lancio) | Android 9.0 Pie |
 | Fotocamera Posteriore | 16MP Ultra Wide f/2.2 / 12MP Wide Angle Dual Pixel OIS f/1.5-2.4 / 12MP Telephoto PDAF OIS f/2.4 zoom 2X |
 | Fotocamera Anteriore | 10MP Selfie Camera f/2.2 / 8MP RGB Depth Camera f/1.9 |
-| Batteria | 4.380 mAh + Ricarica rapida + Ricarica Wireless |
+| Batteria | 4.380 mAh + Ricarica rapida + Ricarica Wireless | <br>
 
 ## Galaxy Fold: un'esperienza completamente nuova <br>
 Galaxy Fold è stato progettato pensando agli utenti che usano lo smartphone, guidati da fattori di forma più grandi che migliorano le loro esperienze. Galaxy Fold cambia in base a quanto display si ha bisogno, solo nel momento in cui se ne ha bisogno. Sta in una sola mano ma aperto permette un interminabile multitasking e una visualizzazione di alta qualità sul più grande display mobile realizzato da Samsung per presentazioni, riviste digitali, film e contenuti AR. <br>
