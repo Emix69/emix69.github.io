@@ -20,7 +20,7 @@ Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi que
 **Scarica Bill e scopri il nuovissimo Wallet virtuale di SisalPay:** [Bill](http://bit.ly/scaricaBill) <br>
 &emsp; Per te che te la scarichi otterai gratuitamente 5€ di benvenuto che diverranno 10, con il codice: EMIIAN non appena <br>
 &emsp; verificheranno il tuo IBAN.<br>
-**Scarica yap, la nuova carta/conto gratuita prepagata con 10€ di bonus benvenuto:** [YAP](https://na38w.app.goo.gl/Fzu4U)<br>
+**Scarica yap, la nuova carta/conto gratuita prepagata con 10€ di bonus benvenuto:** [YAP](https://emix69.github.io/guide/2018/12/18/Yap.html)<br>
 &emsp; Se ti fa piacere aiutare anche chi ti ha invitato movimenta almeno 5€ in entrata su yap, tramite carta o bonifico per farmi <br>
 &emsp; ottenere anche me il bonus.<br>
 **Scarica hype, la nuova carta/conto (fisica o virtuale) gratuita prepagata con 10€ di bonus benvenuto:** [HYPE](https://www.hype.it/invite/4f5a6666516e77502f58633d)<br>
