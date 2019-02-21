@@ -39,4 +39,4 @@ Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi que
 &emsp; IBAN e il pagamento della stessa viene effettuato dal 4 al 7 del mese successivo, come ogni altra carta di credito <br> 
 &emsp; NON A REVOLVING. <br>
 **Satispay:** [SatisPay](https://emix69.github.io/guide/2019/02/21/SatisPay.html) <br>
-E' un e-wallet come Bill, la differenza è che va fissato il budget per ottenere il bonus e il suo funzionamento è a budget settimanale, quindi nei pro e nei contro c'è la gestione in questo modo, cioè una volta fissato il budget per "aggiornarlo" bisogna attendere la settimana succesiva, o meglio il giorno della settimana che viene "ricaricato" o "svuotato" il wallet, che è la Domenica.
+&emsp; E' un e-wallet come Bill, la differenza è che va fissato il budget per ottenere il bonus e il suo funzionamento è a budget  <br> &emsp; settimanale, quindi nei pro e nei contro c'è la gestione in questo modo, cioè una volta fissato il budget per "aggiornarlo" <br> &emsp; bisogna attendere la settimana succesiva, o meglio il giorno della settimana che viene "ricaricato" o "svuotato" il wallet, <br> &emsp; che è la Domenica.
