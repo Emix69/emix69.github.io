@@ -12,7 +12,7 @@ icon: icon-html
 Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi questa più che altro è una panoramica di cio che faccio un pochino più nel dettaglio.<br>
 **Canale telegram vendita usato e non:** [Vendo anche mia nonna :D :D](https://t.me/mercatino_dell_usato) <br>
 **Bot telegram per contattarmi:** [Emix_69Bot](https://t.me/Emix_69MercatinoBot) <br>
-**Gruppo telegram che si occupa soprattutto di sconti:** [MalatiDiSconti](https://t.me/malatidiofferte) <br>
+**Gruppo telegram che si occupa soprattutto di sconti:** [MalatiDiOfferte](https://t.me/malatidiofferte) <br>
 **Gruppo telegram che si occupa soprattutto di assistenti virtuali:** [GoogleHome&Company](https://t.me/googlehome_italia)<br>
 **Pagina FB che si occupa di proporre le migliori offerte e coupon su Amzon e Gearbest:** [ScontiCouponAmazonGearBest](https://m.facebook.com/ScontiCouponAmazonGearBestByEmix69/?ref=bookmarks)<br>
 <br>
