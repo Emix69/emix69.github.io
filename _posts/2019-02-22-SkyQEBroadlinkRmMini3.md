@@ -11,7 +11,7 @@ icon: icon-html
 Ciao a tutti, oggi volevo mostrarvi una piccolissima guida per collegare Broadlink al decoder skyQ (nella guida si parlerà del black). <br>
 
 Passo 1: apriamo l’app “IHC for EU” e selezioniamo il nostro Broadlink
-[!Scena1](https://ibb.co/YZF3Zq0) <br>
+[!Scena1](https://telegra.ph/file/79f86b9b5928ec8c2f714.png) <br>
 Passo 2 : schiacciamo il tasto in basso “add appliance”
 [!Scena2](http://telegra.ph/file/00bdd1002f920e4d50e9a.png) <br>
 Passo3 :schiacciamo su “SET top Box”
