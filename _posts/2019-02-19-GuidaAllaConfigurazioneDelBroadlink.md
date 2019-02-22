@@ -21,7 +21,8 @@ Qualora non riusciste ad "accoppiarlo" fate i seguenti tentativi:
 - Tentare con un altra versione di Android o IOS
 <br>
 Se tutto è andato a buon fine, nella home della app vedete l'icona del broadlink. <br>
-## Ora possiamo aggiungere tutti i telecomandi che vogliamo,che siano tv,box,swich hd,ecc in questo modo: <br>
+## Ora possiamo aggiungere tutti i telecomandi che vogliamo,che siano tv,box,swich hd,ecc in questo modo:
+<br> 
 - Nell'app IHC-home premere icona del vostro Broadlink;
 - Premere +Add appliance, selezionare ad esempio TV e scegliere la marca;
 - A questo punto vi apparirà sullo smartphone un telecomando, provate a premere 3 pulsanti per vedere se funzionano con il vostro TV e se ok premere its works well, altrimenti Not work well e ritentare fino a quando trovate quello compatibile con il vostro TV. Qual'ora nessuno dei proposti funzionasse vi farà clonare lui, tasto per tasto il telecomando che dovrete clonare.
