@@ -44,4 +44,4 @@ e) Per richiamare le azioni vocalmente basta dire Attiva nome scena, nel caso de
 **Hei Google Attiva italia 1** <br>
 **Nota bene:** Se volete creare scene tipo **"+1"** o simili, provate prima a vedere come google "recepisce" i comandi, parlo per esperienza poichè su sky ci sono i canali più uno, ma pensando che non riuscisse a "interpretarlo" avevo chiamato il comando "più uno" e me li sono dovuti rinominare ;) <br>
 Per qualsiasi dubbio, chiedete pure sul [gruppo Telegram,](https://t.me/googlehome_italia) siete i benvenuti.<br>
-**Guida a cura di:[DexterMorgan.]**(https://t.me/dextermorgan17)
+Guida a cura di:[DexterMorgan.](https://t.me/dextermorgan17)
