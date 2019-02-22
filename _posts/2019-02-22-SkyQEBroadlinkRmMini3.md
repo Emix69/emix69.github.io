@@ -22,5 +22,5 @@ Passo 5: usciranno una decina di risultati provateli con il vostro telecomando d
 <img src="https://telegra.ph/file/1df391034970d17400c2a.png">
 <br>
 Non vi resta che configurare il telecomando di Sky come avete fatto con il vostro telecomando normale della tv. <br>
-**NOTA BENE: Qual'ora non funzionasse nessuno dei risultati proposti rimane la sezione della guida semplice con il quale si clonano il telecomando, che potrete travore qui: [Configurare correttamente il BroadlinkRmMini 3.](https://emix69.github.io/guide/2019/02/21/GuidaAllaConfigurazioneDelBroadlink.html)**  <br>
+**NOTA BENE: Qual'ora non funzionasse nessuno dei risultati proposti rimane la sezione della guida semplice con il quale si clona il telecomando, che potrete travore qui: [Configurare correttamente il BroadlinkRmMini 3.](https://emix69.github.io/guide/2019/02/21/GuidaAllaConfigurazioneDelBroadlink.html)**  <br>
 Guida scritta da: [MeneX2](https://t.me/menex2)
