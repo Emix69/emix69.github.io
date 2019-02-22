@@ -17,12 +17,13 @@ Collegare il Broadlink ad una USB per alimentarlo e tenere premuto il tasto rese
 fino a quando il led lampegga velocemente ora tornate sulla app e premete il + 
 selezionate il vostro modello di Broadlink e quando vi sarà chiesto dovrete inserire il nome di rete wifi 
 **(N.B. deve essere a 2,4 GHz !!!!)** che volete utilizzare con la rispettiva password in wpa2.
-Questo passaggio può sembrare difficoltoso, ma se non si connette al primo tentativo, ripetere la procedura anche più volte), qualora non riusciste ad "accoppiarlo" fate i seguenti tentativi:
-
-<br>
-Se tutto è andato a buon fine, nella home della app vedete l'icona del broadlink. <br>
+Questo passaggio può sembrare difficoltoso, ma se non si connette al primo tentativo, ripetere la procedura anche più volte), qualora non riusciste ad accoppiarlo fate i seguenti tentativi:
+<br> a) Riavvio del router
+<br> b) Riavvio del cellulare
+<br> c) Svuotare la cache dell'app e sloggarsi e riloggarsi
+<br> d) Provare un'altra versione di Andorid o IOS
+<br> Se tutto è andato a buon fine, nella home della app vedete l'icona del broadlink. <br>
 ## Ora possiamo aggiungere tutti i telecomandi che vogliamo,che siano tv,box,swich in questo modo:
-<br> 
 - Nell'app IHC-home premere icona del vostro Broadlink;
 - Premere +Add appliance, selezionare ad esempio TV e scegliere la marca;
 - A questo punto vi apparirà sullo smartphone un telecomando, provate a premere 3 pulsanti per vedere se funzionano con il vostro TV e se ok premere its works well, altrimenti Not work well e ritentare fino a quando trovate quello compatibile con il vostro TV. Qual'ora nessuno dei proposti funzionasse vi farà clonare lui, tasto per tasto il telecomando che dovrete clonare.
