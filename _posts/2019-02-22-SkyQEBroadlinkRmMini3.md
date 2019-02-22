@@ -18,9 +18,9 @@ Passo3 :schiacciamo su “SET top Box”
 <img src="https://telegra.ph/file/95cfa714bc6ea124f0cd7.png"> <br>
 Passo 4: andiamo su “user library” e digitiamo SKYQ nella ricerca
 <img src="https://telegra.ph/file/0221c4e0111ded62adb84.png"> <br>
-Passo 5: usciranno una decina di risultati provateli con il vostro telecomando di skyq, a me col primo ha funzionato subito, ed il gioco è fatto.
+Passo 5: usciranno una decina di risultati provateli con il vostro telecomando di skyq, a me col primo ha funzionato subito, ed il gioco è fatto. <br>
 <img src="https://telegra.ph/file/1df391034970d17400c2a.png">
 <br>
-**Qual'ora non funzionasse nessuno dei risultati proposti rimane la sezione della guida semplice con il quale si clonano il telecomando, che potrete travore qui: [Configurare correttamente il BroadlinkRmMini 3](https://emix69.github.io/guide/2019/02/21/GuidaAllaConfigurazioneDelBroadlink.html)**  <br>
 Non vi resta che configurare il telecomando di Sky come avete fatto con il vostro telecomando normale della tv. <br>
+**NOTA BENE: Qual'ora non funzionasse nessuno dei risultati proposti rimane la sezione della guida semplice con il quale si clonano il telecomando, che potrete travore qui: [Configurare correttamente il BroadlinkRmMini 3.](https://emix69.github.io/guide/2019/02/21/GuidaAllaConfigurazioneDelBroadlink.html)**  <br>
 Guida scritta da: [MeneX2](https://t.me/menex2)
