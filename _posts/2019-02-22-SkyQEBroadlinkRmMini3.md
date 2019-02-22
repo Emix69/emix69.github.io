@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "SkyQ e il broadlinkRmMini3"
+title:  "SkyQ e il BroadlinkRmMini3"
 date:   2019-02-21
 desc: "Far vedere al Broadlink lo skyQ"
-keywords: "broadlink,SkyQ,GoogleHome,IHC"
+keywords: "Broadlink,SkyQ,GoogleHome,IHC"
 categories: [Guide]
 tags: [Broadlink,SkyQ,GH,IHC]
 icon: icon-html
