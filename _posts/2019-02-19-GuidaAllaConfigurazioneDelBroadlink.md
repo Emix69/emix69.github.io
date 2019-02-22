@@ -13,15 +13,15 @@ Installare la app IHC for EU dal playstore:
 [IHCforEU](https://play.google.com/store/apps/details?id=cn.com.broadlink.europe.ihc)
 <br>
 Avviare la app, creare un account e fare login.<br>
-Collegare il Broadlink ad una USB per alimentarlo e tenere premuto il tasto reset per circa 7 secondi, fino a quando il led lampegga velocemente ora tornate sulla app e premete il + selezionate il vostro modello di Broadlink e quando vi sarà chiesto dovrete inserire il nome di rete wifi (deve essere a 2,4 GHz) che volete utilizzare con la rispettiva password in wpa2.
-(questo passaggio può sembrare difficoltoso, ma se non si connette al primo tentativo, ripetere la procedura anche più volte).
-Qualora non riusciste ad "accoppiarlo" fate i seguenti tentativi:
-- Riavvio del router
-- Riavvio del cellulare
-- Tentare con un altra versione di Android o IOS
+Collegare il Broadlink ad una USB per alimentarlo e tenere premuto il tasto reset per circa 7 secondi, 
+fino a quando il led lampegga velocemente ora tornate sulla app e premete il + 
+selezionate il vostro modello di Broadlink e quando vi sarà chiesto dovrete inserire il nome di rete wifi 
+**(N.B. deve essere a 2,4 GHz !!!!)** che volete utilizzare con la rispettiva password in wpa2.
+Questo passaggio può sembrare difficoltoso, ma se non si connette al primo tentativo, ripetere la procedura anche più volte), qualora non riusciste ad "accoppiarlo" fate i seguenti tentativi:
+
 <br>
 Se tutto è andato a buon fine, nella home della app vedete l'icona del broadlink. <br>
-## Ora possiamo aggiungere tutti i telecomandi che vogliamo,che siano tv,box,swich hd,ecc in questo modo:
+## Ora possiamo aggiungere tutti i telecomandi che vogliamo,che siano tv,box,swich in questo modo:
 <br> 
 - Nell'app IHC-home premere icona del vostro Broadlink;
 - Premere +Add appliance, selezionare ad esempio TV e scegliere la marca;
