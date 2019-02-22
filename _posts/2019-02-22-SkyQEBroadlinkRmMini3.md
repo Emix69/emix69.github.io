@@ -18,7 +18,7 @@ Passo3 :schiacciamo su “SET top Box”
 <img src="https://telegra.ph/file/95cfa714bc6ea124f0cd7.png"> <br>
 Passo 4: andiamo su “user library” e digitiamo SKYQ nella ricerca
 <img src="https://telegra.ph/file/0221c4e0111ded62adb84.png"> <br>
-Passo 5: usciranno una decina di risultati provateli con il vostro telecomando di skyq, a me col primo ha funzionato subito, ed il gioco è fatto. <br>
+Passo 5: usciranno una decina di risultati provateli con il vostro telecomando di skyq, a me col primo ha funzionato subito, ed il gioco è fatto.
 <img src="https://telegra.ph/file/1df391034970d17400c2a.png">
 <br>
 Non vi resta che configurare il telecomando di Sky come avete fatto con il vostro telecomando normale della tv. <br>
