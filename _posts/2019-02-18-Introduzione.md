@@ -19,5 +19,5 @@ con 3 giga di ram con android 5 o 6 più tosto che uno con 4 con android 8 o 9 a
 soprattutto cinefonini (io personalmente ho un DoogeMix 6/64) con android 7, cercato apposta poichè il 7 "occupa" solo due giga di Ram, quindi al netto
 ne ho sempre almeno 4 (anche più ultimamente con gli ultimi aggiornamenti firmware) disponibili per l'uso e consumo quotidiano.
 Per questi esempi e molti altri vi lascio alle mie recensioni.
-Buon lettura.
+Buon lettura. <br>
 NOTA BENE: In qualità di Affiliato Amazon io ricevo un guadagno dagli acquisti idonei.
