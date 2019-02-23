@@ -20,3 +20,4 @@ soprattutto cinefonini (io personalmente ho un DoogeMix 6/64) con android 7, cer
 ne ho sempre almeno 4 (anche più ultimamente con gli ultimi aggiornamenti firmware) disponibili per l'uso e consumo quotidiano.
 Per questi esempi e molti altri vi lascio alle mie recensioni.
 Buon lettura.
+NOTA BENE: In qualità di Affiliato Amazon io ricevo un guadagno dagli acquisti idonei.
