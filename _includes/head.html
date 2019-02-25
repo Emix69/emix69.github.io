@@ -37,4 +37,9 @@
       enable_page_level_ads: true
     });
   </script>
+  
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+  
 </head>
