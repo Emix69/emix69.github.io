@@ -42,5 +42,6 @@ f) Dopo aver fatto tutto, si clicca su Procedi al tuo ordine e si decide come pa
 
 ## Bangood:
 E' esattamente lo stesso format di Gearbest con le uniche due differenze che sono:
+
 - l' "aspetto" del bottone con la scritta "Applica" anzichè inserisci coupon ma la procedura rimane invariata.
 - nella prima schermata si seleziona tutto poi si deve cliccare su **"Proceed to Checkout"** (anche se a fianco c'è Check out with paypal) non lo considerate, anche se pagherete con paypal lo sceglierete alla schermata successiva.
