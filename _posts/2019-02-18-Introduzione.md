@@ -8,7 +8,9 @@ categories: [Recensioni]
 tags: [Guide,Markdown,Introduction,amazon,review]
 icon: icon-html
 ---
-Ecco a voi il mio profilo Amazon: [Profilo](https://www.amazon.it/gp/profile/amzn1.account.AG5DHLYEDTQPBDJF5PEJOL6Y4OPQ).<br>
+
+Ecco a voi il mio profilo Amazon:[Profilo.](https://www.amazon.it/gp/profile/amzn1.account.AG5DHLYEDTQPBDJF5PEJOL6Y4OPQ)
+
 Questa è una piccola presentazione per la sezione che voglio creare, inserendo tutti i prodotti che ho già recensito e continuamente aggiornerò.
 Anche per farvi avere un'idea ben chiara dei pregi e difetti dei prodotti che sono (o che sono stati su Amazon). Questo perchè ho notato che molte
 recensioni per quanto dettagliate e precise non hanno però riscontri sull'uso di tutti i giorni. 
@@ -21,3 +23,6 @@ ne ho sempre almeno 4 (anche più ultimamente con gli ultimi aggiornamenti firmw
 Per questi esempi e molti altri vi lascio alle mie recensioni.
 Buon lettura. <br>
 NOTA BENE: In qualità di Affiliato Amazon io ricevo un guadagno dagli acquisti idonei.
+<a href="http://www.amazon.it/?tag=emix69050-21">
+<img src="http://g-ecx.images-amazon.com/images/G/29/associates/it_logo.png" border="0" alt="In cooperazione con Amazon.it">
+</a>
