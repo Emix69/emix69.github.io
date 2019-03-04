@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gearbest si rifà il look"
-date:   2018-12-18
+date:   2019-03-04
 desc: "Cambio di grafica in casa Gearbest"
 keywords: "gearbest,telegram,grafica"
 categories: [News]
