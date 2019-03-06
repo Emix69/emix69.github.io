@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Xiaomi e MIUI10"
-date:   2018-03-04
+date:   2018-03-05
 desc: "svelate tutte le novità in arrivo con i prossimi aggiornamenti"
 keywords: "Xiaomi,MIUI,blog,news"
 categories: [News]
