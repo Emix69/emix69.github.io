@@ -15,4 +15,5 @@ Che dire? Pagata 18.25€, veramente un acquisto eccellente. Provata qualche gio
 Piccola premessa, nella descrizione ho riletto solo ora che il peso e tutto è accurato per persone dai 10 ai 70 anni, quindi quello che dirò a breve è un mio personalissimo parere.
 Unica pecca, se proprio la si vuole trovare è che il profilo bimbo piccolo è utilizzabile e misurabile solo in braccio ad un adulto, quindi io per esempio che ho due bimbe di due anni che volevo pesare ho dovuto utilizzare il profilo classico per "registrarle", però anche qui è relativo perché tutt'al più si potevano settare tre tipi di profili ma si avrebbe comunque il "problema" di scegliere qual'è l'età limite di ogni profilo, quindi in fin dei conti va bene anche così.
 
-Link all'acquisto: [Bilancia](https://amzn.to/2V356MQ)
+Link all'acquisto: [Bilancia](https://amzn.to/2V356MQ) <br>
+Voto: 🌟🌟🌟🌟🌟
