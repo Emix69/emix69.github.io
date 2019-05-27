@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Mini deumidificatore"
-date:   2019-02-19
-desc: "Buono oppure no??"
+date:   2019-05-27
+desc: "Da non comprare assolutamente"
 keywords: "amazon,recensioni,acquisti,deumidificatore,mini"
 categories: [Recensioni]
 tags: [Recensioni,Deumidificatore,mini,Acquisti]
