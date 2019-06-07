@@ -24,15 +24,15 @@ Il comando esatto da dare all'assistente è "Trasmetti su **[NOME_CHROMECAST] [N
 Dove **NOME_CHROMECAST** e **NOME_CAMERA** sono i nomi che avete dato Voi alle Vostre periferiche. <br>
 
 ## Riferimenti:
-- Google Home app: http://bit.ly/2ZeoR6d
-- MiHome app:http://bit.ly/31gv2sf
-- Google Chromecast: http://bit.ly/2X0rqeV (Noi personalmente consigliamo l'ultima versione utile, la 4K a poco utilizzo in questo ambito quindi questa ad oggi per **NOI** è la migliore, ma anche la versione 2 potete utilizzare!!) <br>
-- Google Home Mini: http://bit.ly/31fQvkZ (Disponibile in due colorazioni diverse)
-- Google Home: http://bit.ly/2WuPWVI (Rispetto al mini di sopra migliora la qualità audio, se lo trovate in offerta sui 70€ non fatevelo scappare ;) !!) <br>
-- **[NEW]** Google Home hub: http://bit.ly/2X0sBel (Questo è non solo smartSpeacker ma anche smartMonitor e lo stesso procedimento di sopra con Chromecast e tv si può replicare su di lui!!) <br>
-- Videocamera (qui potete scegliere quella che volete, vi presentiamo un piccolo elenco): https://amzn.to/2WnjijU <br>
+- Google Home app: [http://bit.ly/2ZeoR6d](http://bit.ly/2ZeoR6d)
+- MiHome app: [http://bit.ly/31gv2sf](http://bit.ly/31gv2sf)
+- Google Chromecast: [http://bit.ly/2X0rqeV](http://bit.ly/2X0rqeV) (Noi personalmente consigliamo l'ultima versione utile, la 4K a poco utilizzo in questo ambito quindi questa ad oggi per **NOI** è la migliore, ma anche la versione 2 potete utilizzare!!) <br>
+- Google Home Mini: [http://bit.ly/31fQvkZ](http://bit.ly/31fQvkZ) (Disponibile in due colorazioni diverse)
+- Google Home: [http://bit.ly/2WuPWVI](http://bit.ly/2WuPWVI) (Rispetto al mini di sopra migliora la qualità audio, se lo trovate in offerta sui 70€ non fatevelo scappare ;) !!) <br>
+- **[NEW]** Google Home hub: [http://bit.ly/2X0sBel](http://bit.ly/2X0sBel) (Questo è non solo smartSpeacker ma anche smartMonitor e lo stesso procedimento di sopra con Chromecast e tv si può replicare su di lui!!) <br>
+- Videocamera (qui potete scegliere quella che volete, vi presentiamo un piccolo elenco): [https://amzn.to/2WnjijU](https://amzn.to/2WnjijU) <br>
 ⚠️ **ATTENZIONE:** Non tutte le ipCam sono compatibili con googleHome, ma vi chiederete come faccio a saperlo se lo sono?? Niente di più semplice, vedete che app utilizza la ipCam in questione, andate sulla vostra GooleHome app e cercate il servizio tra quelli disponibili, se c'è il gioco è fatto.
-Per problemi di gestione degli account terzi dei servizi rimandiamo alla guida sulla configurazione del Broadlink: http://bit.ly/2PzeaHP , vi chiederete perchè? Perchè i problemi che si possono incontrare sono gli stessi e la procedura per superarli è praticamente la stessa!! <br>
+Per problemi di gestione degli account terzi dei servizi rimandiamo alla guida sulla configurazione del Broadlink: [http://bit.ly/2PzeaHP](http://bit.ly/2PzeaHP) , vi chiederete perchè? Perchè i problemi che si possono incontrare sono gli stessi e la procedura per superarli è praticamente la stessa!! <br>
 
 Nick su telegram dei nostri amici: [@Simolitos](http://t.me/Simolitos) e [@GiuseppeGallo](http://t.me/GiuseppeGallo) che hanno gentilmente e rispettivamente testato e ipotizzato il tutto. <br>
 Per ulteriori dettagli potete chiedere direttamente a loro (non vi mangiano :P) o anche a me [qui](http://t.me/Deals_Coupon_bot).
