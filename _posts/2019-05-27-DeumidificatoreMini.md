@@ -22,5 +22,5 @@ Diffidate dal prodotto e soprattutto dal venditore: [Houzetek](https://www.amazo
 in mano a loro non avrete uno straccio di garanzia. <br>
 Link all'acquisto: [QUI!!](https://amzn.to/2JGAHCo) <br>
 Voto: 🌟
-**Aggiornamento:** Non si può recensire il prodotto su amazon per le troppe recensioni e possibili recensioni false, chi sa perchè ma me lo immaginavo. Questa recensione a differenza delle altre verrà portata su Amazon non appena sarà possibile.
+**Aggiornamento:** Non si può recensire il prodotto su amazon per le troppe recensioni e possibili recensioni false, chi sa perchè ma me lo immaginavo. Questa recensione a differenza delle altre verrà portata su Amazon non appena sarà possibile. <br>
 **Aggiornamento2:** Sono riuscito a lasciare la recensione su Amazon, ma la stanno ancora valutando, resto in attesa del loro riscontro, sperando a breve di poterla pubblicare, nel frattempo ho trovato altre persone che non si sono trovate bene con il prodotto, quindi se potete **NON COMPRATELO!!!!**
