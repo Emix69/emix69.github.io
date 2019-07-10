@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Google maps aggiorna i mezzi pubblici nella propria gestione"
-date:   2019-06-25
+date:   2019-07-10
 desc: "Grandi novità per chi usa i mezzi pubblici grazie a Google Maps"
 keywords: "google,maps,mezziPubblici,aggiornamento"
 categories: [News]
