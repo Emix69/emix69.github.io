@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Come sarà il nuovo S11"
-date:   2019-07-08
+date:   2019-08-07
 desc: "Rumor sul Samsung S11"
 keywords: "News,Samsung,S11,Rumors,blog"
 categories: [News]
