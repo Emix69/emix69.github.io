@@ -14,8 +14,8 @@ Praticamente per continuare vi servono Hype o Yap o una carta prepagata e un con
 I passi da seguire sono pochi e semplici, al netto ci si registra, dal link invito, (si mette ho un codice amico, se non è già spuntata la voce, con il codice **EMILIANOI1** e si decide da dove mandare l'importo a dove lo si vuole ricevere.
 E' persino possibile mandarseli da soli, io per esempio me li sono mandati da me a me, da Yap a N26. La prima transazione con il codice FREE è gratuita, la successiva (perchè la prima vi regalerà ben 25€) la pagherete 3,99€ quindi riscuoterete 21 su 25, senza far nulla o quasi non male no??
 ## Qui in breve cercherò di spiegarvi:
-1) Cliccate sul seguente link: http://bit.ly/2JVIQ57 , vi si mostrerà una page in cui io sono stato ad invitarvi e che guadagnerete 25€ con il primo trasferimento. <br>
-2) Nel caso in cui la voce ho un codice amico, spuntatela e mettete il seguente codice: **EMILIANOI1** <br>
+1) Cliccate sul seguente link:  http://tiny.cc/zsevaz , vi si mostrerà una page in cui io sono stato ad invitarvi e che guadagnerete 25€ con il primo trasferimento. <br>
+2) Nel caso in cui la voce ho un codice amico, spuntatela e mettete il seguente codice: **FILIPPOT7** <br>
 3) Una volta registrati dovrete decidere dove mandare i soldi, nel nostro caso metteremo Germania (avendo N26) <br>
 4) Dopo aver verificato che lo stato sarà quello estero, cioè Germania, scegliete Send, come importo 125€, noterete che l'importo sarà 128,99€ ma non vi preoccupate <br>
 5) Nella schermata successiva potrete cliccare su **Enter promo code** e scriverete FREE, così azzererete le fee (cioè le tasse) richieste. <br>
