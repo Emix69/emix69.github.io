@@ -48,4 +48,7 @@ Eccomi di nuovo a voi, qui dentro mostrerò tutte le mie "attività", quindi que
 **Azimo:** [Azimo](https://emix69.github.io/guide/2019/05/24/Azimo.html) <br>
 &emsp; E' un servizio di invio di denaro tra carte e conti a conti, anche esteri a costi bassisimi e soprattutto in tempi veramente <br> &emsp; veramente stretti. Io stesso li ho mandati da un conto ad un altro estero nel pomeriggio di Venerdì e <br> 
 &emsp; il Lunedì pomeriggio dopo erano già disponibili. Con il mio invito vi regala 10€ di benvenuto che vedrete <br> 
-&emsp; nel primo trasferimento pagando 90€ e ottenendone &emsp; 100€, ma entrate nel link e capirete meglio ;) !!
+&emsp; nel primo trasferimento pagando 90€ e ottenendone &emsp; 100€, ma entrate nel link e capirete meglio ;) !! <br>
+**Revolut:** [Revolut]() <br>
+&emsp; Questa è un altra carta prepagata, ma la sua particolarità è che se ci pagate "fuori", su siti che usano altre monete, che <br>
+&emsp; siano dollari ($) o altro non pagherete il cambio di Valuta, che qualunque altra carta fa pagare. Lo stesso paypal lo fa <br> &emsp; pagare, certo a cifre piccole magari neanche ve ne accorgete, però scoccia un pò e soprattutto ora (cosa mai fatta prima) <br> &emsp; regala ben 10€ di benvenuto a chi si registra e a chi invita. L'unica cosa è che chi si registra otterà i 10€ non appena <br> &emsp; effettuerà un pagamento con carta dopo averla richiesta, pagamento inteso presso un negozio fisico utilizzando il pin <br> &emsp; (io l'ho "attivata" pagando un casello)!!
